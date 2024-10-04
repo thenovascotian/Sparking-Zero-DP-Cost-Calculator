@@ -1,4 +1,4 @@
-# Sparking Zero DP Possibility Calculator
+# Sparking Zero Team Possibility Calculator
 This repo contains a script for calculating the possible combinations for online teams in Dragonball Sparking Zero. 
 
 For further context, the game allows you to battle players online. However, given the extensive roster and the unbalanced nature of the game, the decision was made to limit the amount of characters you can choose to play with. 
