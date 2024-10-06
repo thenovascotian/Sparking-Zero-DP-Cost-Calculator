@@ -16,4 +16,7 @@ But, you have a maximum of 15 DP to spend per team.
 This script lists all possible combinations of DP cost. 
 
 ## Future Iterations
-At some point in the future I hope to turn this into an application that allows you to build a team around a specific character. (i.e. your main character).
+At some point in the future I hope to:
+- add all 182 characters and their dp points into a spreadsheet
+- have the script pull the data from the spreadsheet to suggest teams
+- allow you to build a team around a specific character. (i.e. your main character).
